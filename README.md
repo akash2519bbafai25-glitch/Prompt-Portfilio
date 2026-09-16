@@ -1,9 +1,5 @@
 # Prompt Engineering Foundations
 
-**Student Name:** Akash Thakur[cite: 2]  
-**Roll No.:** 2520992519[cite: 2]  
-**Course:** BBA Fintech & AI (Section: i1)[cite: 2]  
-
 ## Project Overview
 
 ### Business Problem
